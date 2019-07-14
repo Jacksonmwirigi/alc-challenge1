@@ -3,4 +3,6 @@
 ## This app aims at testing knowledge acqired during the online training on pluralsight through the established partnership.   
 
 ### bellow are the screenshots of the  ALC app 
-![MAin screen image](https://github.com/Jacksonmwirigi/alc-challenge1/main_screen.png)
+![MAin screen image](https://github.com/Jacksonmwirigi/alc-challenge1/tree/master/app/src/main/res/drawable/main_screen.png)
+
+! [screenshot2](C:/Android_Projects/Alc4App/app/src/main/res/drawable/profilescreen.png) 
