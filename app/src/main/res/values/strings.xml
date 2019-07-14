@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alc4App</string>
+    <string name="about_text">About ALC</string>
+    <string name="profile_text">VIEW PROFILE</string>
+    <string name="welcome_txt">Welcome to ALC 4.0</string>
+    <string name="profileActivity">My Profile</string>
+    <string name="home_activity">ALC 4.0 Phase1</string>
+    <string name="about_activity">About ALC</string>
+    <string name="slackname">jacksonmwirigi</string>
+    <string name="emailadd">jacksonmwirigi@gmail.com</string>
+    <string name="phoneconta">+254719369370</string>
+    <string name="track">Android Track</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number_TV">Phone Number</string>
+    <string name="countryname">Kenya</string>
+    <string name="track_nameTV">Track Name</string>
+    <string name="country_tv">Country</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile_text">MY PROFILE</string>
+</resources>
