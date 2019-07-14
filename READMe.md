@@ -5,4 +5,4 @@
 ### bellow are the screenshots of the  ALC app 
 ![MAin screen image](https://github.com/Jacksonmwirigi/alc-challenge1/tree/master/app/src/main/res/drawable/main_screen.png)
 
-! [screenshot2](C:/Android_Projects/Alc4App/app/src/main/res/drawable/profilescreen.png) 
+![screenshot2](C:/Android_Projects/Alc4App/app/src/main/res/drawable/profilescreen.png) 
